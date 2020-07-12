@@ -18,8 +18,8 @@ f) Presentand Predict Insights.
 
 Libraries Used:
 
-Pandas
-Numpy
-Scikit Learn
-Seaborn
-Matplotlib
+Pandas, 
+Numpy,
+Scikit-Learn,
+Seaborn,
+Matplotlib.
