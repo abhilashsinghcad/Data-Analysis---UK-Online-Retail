@@ -1,22 +1,22 @@
 # Data-Analysis-Online-Retail
 Data Analysis of an uk-based online wholesale retailer.
 
-The project is an independent approach to data mining using a large dataset from UCI Machine Learning Repository. The following steps will be taken to generate insights from the dataset.
+The project is an independent approach to understand customer insights using a large dataset from UCI Machine Learning Repository. The following steps are taken to generate insights from the dataset.
 
-a) Data Cleaning.
+#### a) Data Cleaning.
 
-b) Data Exploration.
+#### b) Data Exploration.
 
-c) Defining And Researching Metrics.
+#### c) Defining And Researching Metrics.
 
-d) Feature Engineering.
+#### e) Baseline Time Series Modelling.
 
-e) Modelling.
-
-f) Presentand Predict Insights.
+#### f) Recommend Strategies.
 
 
-Libraries Used:
+
+
+### Libraries Used:
 
 Pandas, 
 Numpy,
