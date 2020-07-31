@@ -18,3 +18,8 @@ e) Recommend Strategies.
 
 ### Libraries Used: 
 Pandas, Numpy, Scikit-Learn, Seaborn, Matplotlib.
+
+
+Please find the medium blog post explanation here - https://medium.com/@Abhilashsinghme/online-retail-analysis-customer-metrics-and-baseline-time-series-forecasting-aa53a74a0b82?source=friends_link&sk=c0e34a1fd548a3b0f5203c8ef17fe468.
+
+Thank You.
